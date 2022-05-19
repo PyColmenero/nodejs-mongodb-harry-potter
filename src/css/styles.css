@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'harrypotter';
+    src: url('../fonts/harrypotter.ttf');
+}
+
+h1 {
+    font-family: harrypotter;
+    font-size: 3rem;
+}
